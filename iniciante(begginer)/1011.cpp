@@ -1,6 +1,6 @@
 /*
     Vitor de Oliveira Mafra
-    UFMG, April 2018
+    UFMG, April 2019
 */
 #include <iostream>
 #include <iomanip>
