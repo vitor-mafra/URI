@@ -1,6 +1,6 @@
 /*
     Vitor de Oliveira Mafra
-    UFMG, March 2018
+    UFMG, March 2019
 */
 #define PESO_NOTA_A 3.5
 #define PESO_NOTA_B 7.5
